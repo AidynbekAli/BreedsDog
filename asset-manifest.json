@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/BreedsDog/static/css/main.e6c13ad2.css",
+    "main.js": "/BreedsDog/static/js/main.8b7b08f7.js",
+    "index.html": "/BreedsDog/index.html",
+    "main.e6c13ad2.css.map": "/BreedsDog/static/css/main.e6c13ad2.css.map",
+    "main.8b7b08f7.js.map": "/BreedsDog/static/js/main.8b7b08f7.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.8b7b08f7.js"
+  ]
+}
